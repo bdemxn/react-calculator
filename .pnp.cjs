@@ -31,6 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
             ["@vitejs/plugin-react", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:3.1.0"],\
+            ["animate.css", "npm:4.1.1"],\
             ["bootstrap", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:5.2.3"],\
             ["formik", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:2.2.9"],\
             ["react", "npm:18.2.0"],\
@@ -781,6 +782,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["aggregate-error", "npm:3.1.0"],\
             ["clean-stack", "npm:2.2.0"],\
             ["indent-string", "npm:4.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["animate.css", [\
+        ["npm:4.1.1", {\
+          "packageLocation": "./.yarn/cache/animate.css-npm-4.1.1-5c526dcd84-c7eb915404.zip/node_modules/animate.css/",\
+          "packageDependencies": [\
+            ["animate.css", "npm:4.1.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1901,6 +1911,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
             ["@vitejs/plugin-react", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:3.1.0"],\
+            ["animate.css", "npm:4.1.1"],\
             ["bootstrap", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:5.2.3"],\
             ["formik", "virtual:5030ee2cb2b0350275f5d6088255d0afda1d0edb1cfd6918b52ea98d0efb7d91b0d233f9c5016f3f81a59faad25466736e0cb1f7ddcb2ff733c1c1a3e5d56b33#npm:2.2.9"],\
             ["react", "npm:18.2.0"],\
